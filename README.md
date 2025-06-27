@@ -205,8 +205,8 @@ docker-compose -f monitoring/prometheus-compose.yml up
 
 ## 👨‍💻 Author
 
-**Mark Chindudzi**
-AI&+ML Cloud Engineer Enthusiast | Data Scientist | AU'27 ♧ Merging Science with Imagination <br>
+**Mark Chindudzi** - Computer Science Student <br>
+AI&ML Cloud&Data Engineer Enthusiast | Data Scientist | AU'27 ♧ Merging Science with Imagination <br>
 [GitHub](https://github.com/marknature)  |  [LinkedIn](https://www.linkedin.com/in/marknature-c)  |  [LinkTree](https://linktr.ee/marknature)
 
 <br>
