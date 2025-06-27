@@ -211,9 +211,9 @@ AI&+ML Cloud Engineer Enthusiast | Data Scientist | AU'27 ♧ Merging Science wi
 
 <br>
 
-## 👥 Team
+## 👥 Team (2-person team)
 
-* **Mark Chindudzi** – Project Lead, Mentor, AI/ML Engineering, Data Scientist, Computer Scientist, Data&Video Analyst, Documentation Specialist, QA, Researcher
+* **Mark Chindudzi** – Project Lead, Mentor, AI/ML Engineering, Data Scientist, Computer Scientist, Data&Video Analyst, Quality Assurance Tester, Researcher
 * **Shallin T. Tariro** - Project Manager Assistant, Mentee, Software Engineer, Full-Stack Engineer, UI/UX Designer, Documentation Specialist Assistant
 
 <br>
