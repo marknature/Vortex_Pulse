@@ -48,7 +48,7 @@ Football teams make crucial decisions based on instinct. This project bridges th
 | Programming   | Python, JavaScript                                |
 | ML & Data     | Scikit-learn, XGBoost, Pandas, NumPy              |
 | Deep Learning | TensorFlow, PyTorch (for potential video/NLP use) |
-| API & Backend | FastAPI, PostgreSQL                               |
+| API & Backend | FastAPI, Django, PostgreSQL                               |
 | Frontend      | JavaScript (Chart.js, D3.js)                      |
 | DevOps/MLOps  | Docker, MLflow, Prometheus, GitHub Actions, DVC   |
 | Cloud & Infra | AWS (EC2, S3), Terraform, Docker Compose          |
